@@ -1,0 +1,12 @@
+"xterm"
+	Control + Alt + t
+
+"firefox"
+	Control + Alt + f
+
+"xvkbd -xsendevent -text "\[Delete]" "
+    m:0x40 + c:133
+    Mod4 + Super_L
+
+
+

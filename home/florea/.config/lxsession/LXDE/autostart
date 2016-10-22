@@ -1,0 +1,8 @@
+@lxpanel --profile LXDE
+@pcmanfm --desktop --profile LXDE
+@xscreensaver -no-splash
+xbindkeys
+cbatticon
+xterm -e su
+xterm 
+firefox
