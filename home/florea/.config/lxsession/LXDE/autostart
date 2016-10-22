@@ -3,5 +3,6 @@
 @xscreensaver -no-splash
 xbindkeys
 cbatticon
-
-bootstart-chmod
+xterm -e su
+xterm 
+firefox
