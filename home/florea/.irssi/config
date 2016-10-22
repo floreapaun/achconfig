@@ -17,7 +17,7 @@ chatnets = {
     autosendcmd = "/msg nickserv identify Archos ;wait 2000";
     sasl_mechanism = "PLAIN";
     sasl_username = "frvr";
-    sasl_password = "Archos";
+    sasl_password = "Ar**os";
   };
 
   Apropo = { type = "IRC"; };
