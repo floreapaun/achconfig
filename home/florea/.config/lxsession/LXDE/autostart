@@ -3,6 +3,4 @@
 @xscreensaver -no-splash
 xbindkeys
 cbatticon
-xterm -e su
-xterm 
-firefox
+/home/florea/panelapps.sh
