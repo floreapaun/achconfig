@@ -1,0 +1,3 @@
+#Commands to run with root permissions
+chmod 777 /sys/class/backlight/intel_backlight/brightness
+
