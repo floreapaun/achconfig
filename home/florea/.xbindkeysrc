@@ -4,9 +4,13 @@
 "firefox"
 	Control + Alt + f
 
-"xvkbd -xsendevent -text "\[Delete]" "
-    m:0x40 + c:133
-    Mod4 + Super_L
+"screen_brightness_up.sh"
+	m:0x0 + c:233
+	XF86MonBrightnessUP
 
+"screen_brightness_down.sh"
+	m:0x0 + c:232
+	XF86MonBrightnessDown
 
+		
 
