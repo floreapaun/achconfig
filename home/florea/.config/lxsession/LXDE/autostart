@@ -3,4 +3,4 @@
 @xscreensaver -no-splash
 xbindkeys
 cbatticon
-/home/florea/panelapps.sh
+/usr/local/bin/panelapps.sh
