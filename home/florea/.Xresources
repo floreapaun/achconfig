@@ -1,4 +1,7 @@
-xterm*font: -*-fixed-medium-r-*-*-18-*-*-*-*-*-iso8859-*
+XTerm.vt100.faceName: xos4 Terminus:size=15:antialias=true
+xterm*VT100.Translations: #override \
+                 Ctrl Alt <Key>V:    insert-selection(CLIPBOARD) \n\
+                 Ctrl Alt <Key>C:    copy-selection(CLIPBOARD)
 
 ! DOS-box colours
 xterm*foreground: rgb:a8/a8/a8
@@ -29,7 +32,7 @@ xterm*saveLines: 4096
 xterm*rightScrollBar: true
 xterm*ScrollBar: true
 
-xterm*selectToClipboard: true
+
 
 
 
