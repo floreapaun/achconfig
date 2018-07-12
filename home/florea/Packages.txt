@@ -12,9 +12,11 @@ cdrdao
 cdrtools
 chromium
 codeblocks
+composer
 coreutils
 cryptsetup
 deepin-screenshot
+deluge
 device-mapper
 dhcpcd
 dialog
@@ -41,6 +43,7 @@ gcc
 gcc-libs
 gettext
 gftp
+gimp
 git
 glibc
 gnu-netcat
@@ -61,6 +64,7 @@ jupyter-nbconvert
 jupyter-notebook
 k3b
 less
+libcurl-compat
 libreoffice-fresh
 libtool
 licenses
@@ -98,12 +102,12 @@ patch
 pavucontrol
 pciutils
 pcmanfm
-pcmciautils
 perl
 php
 php-apache
+php-sqlite
 phpmyadmin
-pkg-config
+pkgconf
 procps-ng
 psmisc
 pulseaudio
@@ -128,9 +132,13 @@ sysfsutils
 systemd-sysvcompat
 tar
 tensorboard
+terminus-font
 texinfo
 traceroute
+transmission-gtk
 tree
+ttf-dejavu
+ttf-freefont
 unrar
 unzip
 usbutils
